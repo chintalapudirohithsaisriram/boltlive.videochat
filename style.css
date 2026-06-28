@@ -1,0 +1,8 @@
+::-webkit-scrollbar{width:4px;}
+::-webkit-scrollbar-track{background:transparent;}
+::-webkit-scrollbar-thumb{background:rgba(5,150,105,0.3);border-radius:2px;}
+::selection{background:rgba(5,150,105,0.4);color:white;}
+*:focus{outline:none;}
+::placeholder{color:#4a5568;}
+button:active{transform:scale(0.95)!important;}
+@media(max-width:480px){.hero-title{font-size:1.6em;}.start-card{padding:20px;margin:0 10px;}.navbar{padding:10px 14px;}.brand-name{font-size:18px;}.brand-icon{width:34px;height:34px;font-size:17px;}}
